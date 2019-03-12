@@ -1,0 +1,11 @@
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\bin\Debug\netcoreapp1.1\GameSearchEngine.deps.json
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\bin\Debug\netcoreapp1.1\GameSearchEngine.runtimeconfig.json
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\bin\Debug\netcoreapp1.1\GameSearchEngine.runtimeconfig.dev.json
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\bin\Debug\netcoreapp1.1\GameSearchEngine.dll
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\bin\Debug\netcoreapp1.1\GameSearchEngine.pdb
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.csprojAssemblyReference.cache
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.AssemblyInfoInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.dll
+C:\Users\thepo\onedrive\desktop\projects\GameSearchEngine.Project\GameSearchEngine\obj\Debug\netcoreapp1.1\GameSearchEngine.pdb
